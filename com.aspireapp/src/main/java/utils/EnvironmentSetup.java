@@ -13,7 +13,6 @@ import java.util.Properties;
  */
 public class EnvironmentSetup extends BaseMethod {
 
-    @Test
     public static void environmentSetup() {
         try {
             Properties properties = new Properties();
